@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "obsidian-mcp-server": "^1.3.0"
+  }
+}

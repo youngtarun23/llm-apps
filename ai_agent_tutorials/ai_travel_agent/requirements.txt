@@ -1,4 +1,4 @@
 streamlit 
 agno
-openai
+requests
 google-search-results
